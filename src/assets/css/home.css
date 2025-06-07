@@ -1,0 +1,31 @@
+body {
+    background: #e1e3e5; /* Background color */
+    font-family: Arial, sans-serif; /* Font style */
+}
+
+.card {
+    background: #FFFFFF; /* Card color */
+    box-shadow: 0 10px 5px rgba(0, 0, 0, 0.2); 
+    border-radius: 8px; 
+    padding: 20px;
+
+}
+
+h1 {
+    font-size: 24px; /* Title size */
+    color: #333; /* Title color */
+}
+
+p {
+    font-size: 16px; /* Body size */
+    color: #666; /* Body color */
+}
+
+.button {
+    background: #007BFF; /* Button background */
+    color: #FFFFFF; /* Button text color */
+    border: none; /* No border */
+    border-radius: 8px; /* Rounded corners */
+    padding: 10px 20px; /* Padding for the button */
+    cursor: pointer; /* Pointer cursor on hover */
+}

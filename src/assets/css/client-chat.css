@@ -1,0 +1,14 @@
+.main-container{
+    margin: 5% 15%;
+    color: #000; /* Black text color */
+    border-radius: 5px;
+    padding: 1.5rem;
+    box-shadow: 1px 1px 2px 2px rgba(0.1,0.1,0.1,0.1); 
+}
+  
+  .alert {
+    background-color: #e0f7fa; /* Light blue background */
+    color: #000; /* Black text color */
+    border-radius: 5px;
+    padding: 1.5rem;
+  }

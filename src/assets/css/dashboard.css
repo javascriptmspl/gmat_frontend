@@ -1,0 +1,56 @@
+.main_container{
+    justify-items:center;
+}
+.custom-card {
+  background-color: #ffffff;
+}
+.card-top {
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+}
+.sec-card-top {
+  background: #800080;
+}
+.third-card-top {
+  background: #d9328a;
+}
+.forth-card-top {
+  background: #4682b4;
+}
+.five-card-top {
+  background: #ff0000;
+}
+.six-card-top {
+  background: #3eb489;
+}
+
+ .btn1 {
+    border:none;
+  background-color: #006af4;
+  color: #FFFFFF;
+  padding : 7px 90px ;
+}
+.btn2 {
+  background-color: #50c878;
+  color: #FFFFFF;
+  padding : 7px 90px ;
+}
+.btn3 {
+  background-color: #abafb8;
+  color: #FFFFFF;
+  padding : 7px 90px ;
+}
+.btn4 {
+  background-color: #4682b4;
+  color: #FFFFFF;
+  padding : 7px 90px ;
+}
+.btn5 {
+  background-color: #ff0000;
+  color: #FFFFFF;
+  padding : 7px 90px ;
+}
+.btn6 {
+  background-color: #3eb489;
+  color: #FFFFFF;
+  padding : 7px 90px ;
+}

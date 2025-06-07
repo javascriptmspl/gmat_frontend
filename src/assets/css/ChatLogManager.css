@@ -1,0 +1,53 @@
+/* ChatLogManager.css */
+.chat-log-manager .user-list .list-group-item {
+    cursor: pointer;
+  }
+  
+  .chat-log-manager {
+    margin: 2%;
+  }
+
+  .chat-log-manager .user-list .list-group-item.active {
+    background-color: #e2ebec;
+ color: black;
+  }
+  
+  .chat-log-manager .list-group-item i.bi {
+    font-size: 1.2rem;
+  }
+  
+  .chat-log-manager .list-group-item span {
+    font-weight: 500;
+  }
+  
+  .chat-log-manager .card-header {
+    background-color: #f8f9fa;
+    font-weight: bold;
+  }
+
+  .list-group-item{
+    border: none;
+    border-radius: 0 0 10px 10px;
+    left: 1px;
+  }
+  .list-group-2{
+    background: linear-gradient(to right, #1c59bb, #4412b9);
+    border-radius: 10px 10px 0 10px;
+    height: 14.3vh;
+  }
+  
+  .history{
+    background: linear-gradient(to right, #1c59bb, #4412b9);
+    border-radius:  10px 10px 0 0;;
+  }
+
+  .custom-button {
+    background: linear-gradient(to right, #1c59bb, #4412b9);
+    color: white;
+    /* border-radius: 30px; */
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    /* transition: background 0.3s; */
+}
+
