@@ -118,7 +118,7 @@ const Header2: React.FC<Header2Props> = () => {
           >
              {bot && (
               <img
-                src={`https://38.242.230.126:5476/${bot?.avatar}`} 
+                src={`http://38.242.230.126:5476/${bot?.avatar}`} 
                
                 style={{ width: 40, height: 40, marginRight: 10 }}
               />
